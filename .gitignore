@@ -2,6 +2,7 @@
 daily_plots/
 daily_plots2/
 datasets/
+research/
 
 # Ignore all log files
 *.log
