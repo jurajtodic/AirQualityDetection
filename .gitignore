@@ -1,6 +1,8 @@
 # Ignore folders
 daily_plots/
 daily_plots2/
+daily_plots3/
+daily_plots_no_hallway/
 datasets/
 research/
 
