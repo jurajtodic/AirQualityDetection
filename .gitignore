@@ -5,6 +5,7 @@ daily_plots3/
 daily_plots_no_hallway/
 datasets/
 research/
+daily_indoor_outdoor_plots/
 
 # Ignore all log files
 *.log
