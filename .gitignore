@@ -6,6 +6,7 @@ daily_plots_no_hallway/
 datasets/
 research/
 daily_indoor_outdoor_plots/
+model_training_data_all_labeled_data_removed_except_when_garden_door_1/
 
 # Ignore all log files
 *.log
