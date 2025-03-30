@@ -10,6 +10,7 @@ model_training_data_all_labeled_data_removed_except_when_garden_door_1/
 materijali za dipl rad/
 daily_people_filtered/
 daily_people_no_filtering_applied/
+daily_people_continuous_filtered/
 
 # Ignore all log files
 *.log
