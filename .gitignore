@@ -11,3 +11,8 @@ materijali za dipl rad/
 daily_people_filtered/
 daily_people_no_filtering_applied/
 daily_people_continuous_filtered/
+daily_burning_no_filtering/
+daily_burning_filtered/
+.venv/
+random/
+results.txt
