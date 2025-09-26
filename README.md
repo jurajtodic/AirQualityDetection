@@ -2,7 +2,7 @@
 
 This repository contains the code and resources for the master's thesis project, "Time Series Analysis for Indoor Air Quality Assessment." The project focuses on the automatic detection of specific events, including door openings, human presence, and combustion, by analyzing time series data from indoor air quality (IAQ) sensors.
 
-This research is proudly part of the **EDIAQI (Evidence Driven Indoor Air Quality Improvement)** project, a Horizon Europe initiative dedicated to understanding and mitigating indoor air pollution. The findings and methodologies developed in this thesis are detailed in a forthcoming scientific publication.
+This research is proudly part of the **EDIAQI (Evidence Driven Indoor Air Quality Improvement)** project, a Horizon Europe initiative dedicated to understanding and mitigating indoor air pollution. **The findings and methodologies developed in this thesis are detailed in a forthcoming scientific publication**.
 
 ## Key Features
 
